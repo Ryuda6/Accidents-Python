@@ -1,0 +1,11 @@
+code;libelle;type_code_implique;libelle_type
+0;Autre;0;Autre
+1;Pieton moins 10 ans;1;Pieton
+2;Pieton plus 10 ans;1;Pieton
+3;Bicyclette;2;2 roues
+4;Cyclomoteur;2;2 roues
+5;Moto;3;2 roues
+6;Voiture legere;3;4 roues
+7;Poids lourd;3;4 roues
+8;Bus;3;4 roues
+9;Tram, Engin;3;4 roues
